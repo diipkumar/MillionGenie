@@ -1,4 +1,4 @@
-# Million Genie
+# Million Genie IOS App
 
 MillionGenie is an organization dedicated to make society a better place by connecting people in real time for emergency services . Our business is to provide a unified platform for everyone to connect in cases of emergencies and create a community of trust where we all can be a helping hand to someone.
 
